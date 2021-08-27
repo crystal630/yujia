@@ -320,9 +320,9 @@
 
 .main {
   position: relative;
-  top: -22px;
-  width:1440px;
-  height: 600px;
+  top: 0px;
+  width:auto;
+  height: 1000px;
   background-image: none;
   background-position: 0px 0px;
 }
@@ -333,7 +333,7 @@
   overflow: visible;
   margin-right: auto;
   margin-left: auto;
-  padding-left: 180px;
+  padding-left: 150px;
   font-family: Oswald, sans-serif;
   font-size:100px;
   color: #fff;
@@ -350,7 +350,7 @@
 .footnote {
   position: relative;
   top: 0px;
-  margin-top: 40px;
+  margin-top: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(3, 50, 88, 0.5)), to(rgba(3, 50, 88, 0.5)));
