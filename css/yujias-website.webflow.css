@@ -1052,8 +1052,8 @@
   width: 100%;
   padding-top: 100%;
   border-radius: 0%;
-  background-image: url('../images/WechatIMG260.jpeg'), -webkit-gradient(linear, left top, left bottom, from(rgba(4, 19, 58, 0.5)), to(rgba(4, 19, 58, 0.5)));
-  background-image: url('../images/WechatIMG260.jpeg'), linear-gradient(180deg, rgba(4, 19, 58, 0.5), rgba(4, 19, 58, 0.5));
+  background-image: url('../images/cover.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(4, 19, 58, 0.5)), to(rgba(4, 19, 58, 0.5)));
+  background-image: url('../images/cover.png'), linear-gradient(180deg, rgba(4, 19, 58, 0.5), rgba(4, 19, 58, 0.5));
   background-position: 50% 50%, 0px 0px;
   background-size: cover, auto;
   background-repeat: repeat, repeat;
@@ -1451,11 +1451,30 @@
   width: 100%;
   padding-top: 100%;
   border-radius: 0%;
+  background-image: url('../images/swaggie.png');
+  background-position: 50% 50%;
+  background-size: 100%;
+}
+.muse1 {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 100%;
+  border-radius: 0%;
+  background-image: url('../images/ollie.png');
+  background-position: 80% 50%;
+  background-size: 126%;
+}
+.muse2 {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 100%;
+  border-radius: 0%;
   background-image: url('../images/kjshdFa.png');
   background-position: 50% 50%;
-  background-size: 105%;
+  background-size: 120%;
 }
-
 .cards-image-3 {
   position: absolute;
   left: 0%;
